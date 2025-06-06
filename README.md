@@ -22,7 +22,7 @@ It is a part of the AI & ML Internship by Elevate Labs in collaboration with MSM
 - Pandas
 - Matplotlib
 - Scikit-learn
-- 
+  
 ## 🚀 Steps Performed
 
 1. Loaded the dataset using Pandas.
